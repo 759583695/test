@@ -20,9 +20,9 @@ xzzx
 >我是引用的内容
 
 
-```html
+```
 <div>
-    <span>sd ds</span> 
+    <span>sd ds</span> <span>sd ds</span> <span>sd ds</span> <span>sd ds</span> <span>sd ds<span> <span>sd ds</span> <span>sd ds</span> <span>sd ds</span> <span>sd ds</span> <span>sd ds</span> <span>sd ds</span> <span>sd ds</span> <span>sd ds</span> <span>sd ds</span> <span>sd ds</span> <span>sd ds</span> <span>sd ds</span> <span>sd ds</span>  
     <span>sd ds</span> 
     <span>sd ds</span> 
     <span>sd ds</span> 
@@ -31,12 +31,26 @@ xzzx
 ```
 ssad das asdadsadsd
 ```php
-foreach($a => $b as $v){
-    
-}
+$ck_prefix_str = "front_dis_cnt";
+        $ck_level_len = 3;      //cookie的级别数
+        //查询数据,分页
+        $url_key = "page_num";
+        $init_val = 0;
 ```
 ```javascript
 var a=2;
-var b=3;var b=3;var b=3;var b=3;var b=3;var b=3;var b=3;var b=3;var b=3;var b=3;var b=3;var b=3;var b=3;var b=3;var b=3;var b=3;var b=3;var b=3;
+var b=3;
 alert(a+b);
+$("#abc").click(funtion(){
+    
+})
+```
+
+```css
+.nar{
+   border:1px solid blue;
+border:1px solid #ccc;
+width:80%;
+height:700px;
+}
 ```
